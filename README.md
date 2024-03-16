@@ -1,7 +1,6 @@
 ### Olá! Seja bem-vindo(a)
 
-- 💻 Faço o curso técnico de desenvolvimento de sistemas.
-- 📚 Estudo na ETE Ginásio Pernambucano.
+- 💻 técnica em desenvolvimento de sistemas.
  <div> 
    <a href="https://github.com/raissabispo"> 
    
