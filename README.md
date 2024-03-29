@@ -1,6 +1,4 @@
-### Olá! Seja bem-vindo(a)
-
-- 💻 técnica em desenvolvimento de sistemas.
+### Olá! Seja bem-vindo(a)!!
  <div> 
    <a href="https://github.com/raissabispo"> 
    
