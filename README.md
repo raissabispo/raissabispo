@@ -21,7 +21,7 @@
  
   <a href="https://instagram.com/raissa_vit012" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raissavit59@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   [![Meu Portfólio](https://img.shields.io/badge/Meu%20Portfólio-%23E4405F?style=for-the-badge&logo=&logoColor=white)](https://portfolio-three-kappa-51.vercel.app/)
+   [![Meu Portfólio](https://img.shields.io/badge/Meu%20Portfólio-%23E4405F?style=for-the-badge&logo=&logoColor=white)](https://raissavitoria.netlify.app/)
 
 
  
